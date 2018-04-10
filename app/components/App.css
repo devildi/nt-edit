@@ -1,0 +1,47 @@
+html,body{
+	padding: 0;
+	margin: 0;
+}
+.division {
+	padding: 10px;
+}
+.block{
+	padding: 5px;
+	border: 1px solid #f0f0f0;
+	margin-bottom: 5px;
+}
+.btn{
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+}
+.cardStyle{
+	position: relative;
+}
+.cardBtn{
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.title{
+	padding-top: 5px;
+	text-align: center;
+}
+.day{
+	background-color: #f0f0f0;
+}
+.index{
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 50px;
+	height: 50px;
+	background-color: #7AC5CD;
+	font-size: 35px;
+	color: #fff;
+	line-height: 50px;
+	text-align: center;
+}
+.block1{
+	position: relative;
+}
